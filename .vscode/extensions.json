@@ -1,0 +1,49 @@
+{
+    "recommendations": [
+      // 在指定文件夹运行命令
+      "adrianwilczynski.terminal-commands",
+      // 监控文件修改，自动导入组件
+      "emeraldwalk.runonsave",
+      // 自动重命名close tag
+      "formulahendry.auto-rename-tag",
+      // 中文语言包
+      "ms-ceintl.vscode-language-pack-zh-hans",
+  
+      // 用于快速创建多文件形式的组件
+      "teamchilla.blueprint",
+  
+      // Syntax highlighting and more for .vue files
+      // https://github.com/vuejs/vetur
+      "octref.vetur",
+  
+      // Peek and go-to-definition for .vue files
+      // https://github.com/fuzinato/vscode-vue-peek
+      "dariofuzinato.vue-peek",
+  
+      // Lint-on-save with ESLint
+      // https://github.com/microsoft/vscode-eslint
+      "dbaeumer.vscode-eslint",
+  
+      // Lint-on-save with Stylelint
+      "SanmaoZhao.vscode-stylelint-legacy",
+  
+      // Lint-on-save markdown in README files
+      // https://github.com/DavidAnson/vscode-markdownlint
+      "DavidAnson.vscode-markdownlint",
+  
+      // Format-on-save with Prettier
+      // https://github.com/prettier/prettier-vscode
+      "esbenp.prettier-vscode",
+  
+      // SCSS intellisense
+      // https://github.com/mrmlnc/vscode-scss
+      "mrmlnc.vscode-scss"
+    ],
+    "unwantedRecommendations": [
+      "hookyqr.beautify",
+      "dbaeumer.jshint",
+      "stylelint.vscode-stylelint",
+      "ms-vscode.vscode-typescript-tslint-plugin"
+    ]
+  }
+  

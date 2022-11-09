@@ -1,0 +1,8 @@
+// The snippet below inserts /* Hello World */ in JavaScript files and <!-- Hello World --> in HTML files:
+{
+    "hello": {
+      "scope": "javascript,html",
+      "prefix": "hello",
+      "body": "$BLOCK_COMMENT_START Hello World $BLOCK_COMMENT_END"
+    }
+  }
