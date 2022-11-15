@@ -1,0 +1,10 @@
+.light-btn {
+  &-loading:before {
+    display: block;
+  }
+  &-loading {
+    padding-left: 29px;
+    pointer-events: none;
+    position: relative;
+  }
+}

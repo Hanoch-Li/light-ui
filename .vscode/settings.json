@@ -20,12 +20,11 @@
   // Files
   // ===
 
+  // 不显示的文件
   "files.exclude": {
-    "**/_import-components": true,
-    "**/index-normalize-route.js": true,
     "**/*.log": true,
     "**/*.log*": true,
-    "dist": true,
+    "dist": false,
     "**/coverage": true
   },
   "files.associations": {
